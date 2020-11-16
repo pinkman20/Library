@@ -1,5 +1,5 @@
 # Library
-Practice of using classes within Library project
+Practice using classes within Library project
 
 Project was based on Media class which was sub divided on two child classes -> Book & Movie.
 Inheritance is when we create a parent class with properties and methods that we can extend to child classes.
